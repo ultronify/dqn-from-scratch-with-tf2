@@ -1,2 +1,3 @@
-# dqn-from-scratch-with-tf2
-DQN code for the Medium post &amp; YouTube video
+# DQN from Scratch with TensorFlow 2
+
+This repository goes hand-in-hand with the Medium post and YouTube video.
